@@ -1,2 +1,2 @@
 # MaceraOyunu
-Basit bir şekilde seçimlerinizle birlikte şekillendireceğiniz macera oyunu. (1. Sınıf)
+Bu proje,metin tabanlı bir macera oyunudur. Oyuncular, farklı seçenekler ve hikaye dallanmalarıyla ilerleyerek bir maceraya atılır. Oyun, zorluklar, bulmacalar ve keşiflerle dolu bir deneyim sunuyor.. (1. Sınıf)
